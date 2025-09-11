@@ -174,3 +174,6 @@ menu = do
 -- Punto de entrada
 main :: IO ()
 main = menu
+--cd 2_haskell
+--ghci
+--load practica1.hs
